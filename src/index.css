@@ -35,22 +35,22 @@ div.wrapper
     text-align: center;
     margin-top: 15px;
     margin-left: 20px;
+
     float:left;
-    justify-content: center;
 }
 div.wrapperr
 {
     display: block;
     text-align: center;
     margin-top: 15px;
-    justify-content: left;
+    float:left;
 }
 div.wrappe
 {
     display: block;
     text-align: center;
     margin-top: 15px;
-    justify-content: left;
+    float:right;
 }
 form
 {
